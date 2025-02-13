@@ -38,7 +38,7 @@ Thumbs.db
 ehthumbs.db
 
 *.ppm
-resources/* 
+resources/ray
 
 libs/*
 
